@@ -1,4 +1,4 @@
-package hashicups
+package azurenamingtool
 
 import (
 	"encoding/json"

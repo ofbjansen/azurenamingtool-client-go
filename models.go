@@ -1,4 +1,4 @@
-package hashicups
+package azurenamingtool
 
 // Order -
 type Order struct {
